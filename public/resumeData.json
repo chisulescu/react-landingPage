@@ -56,16 +56,10 @@
   "resume":{
     "education":[
       {
-        "school":"University of Science",
-        "degree":"Engineer in Civil Engineering",
-        "graduated":"April 2013",
-        "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium."
-      },
-      {
-        "school":"School of Cool Designers",
-        "degree":"B.A. Degree in Graphic Design",
-        "graduated":"March 2003",
-        "description":"This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat"
+        "school":"International Pants Size",
+        "degree":"About your pants size",
+        "graduated":"Ian 2020",
+        "description":"The size of the clothing refers to the size of the labels for so many sold off the shelf. There are a large number of standard-size systems around the world for all garments, such as dresses, tops, skirts and pants."
       }
     ],
     "work":[
