@@ -74,7 +74,6 @@ class App extends Component {
         <Header data={this.state.resumeData.main}/>
         <Resume data={this.state.resumeData.resume}/>
         <Table />
-        <Portfolio data={this.state.resumeData.portfolio}/>
         <Testimonials data={this.state.resumeData.testimonials} />
         <Contact data={this.state.resumeData.main} sendMail={this.sendMail}/>
         <Footer />

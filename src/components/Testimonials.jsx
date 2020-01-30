@@ -11,7 +11,7 @@ class Testimonials extends Component {
                              <p>{testimonial.text}</p>
                              <cite>{testimonial.user}</cite>
                           </blockquote>
-                       </li> 
+                       </li>
           )
       });
   }
@@ -24,11 +24,11 @@ class Testimonials extends Component {
               </div>
               <div className="ten columns flex-container">
                     <ul className="slides">
-                       {testimonials}
+                       Take some quick measurements if you are unsure of your current clothes size. The most accurate measurements will be those you take in your underwear, applying the measuring tape directly to your body.
                     </ul>
-              </div> 
-           </div> 
-         </div> 
+              </div>
+           </div>
+         </div>
      </section>
     );
   }
